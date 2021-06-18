@@ -1,3 +1,7 @@
+This is my attempt at completing this challenge from frontendmentor.io. The original instructions are below. Feel free to fork this repository!
+
+Live site here: https://jsweeney-huddle-landing-page.netlify.app/
+
 # Frontend Mentor - Huddle landing page with single introductory section
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
